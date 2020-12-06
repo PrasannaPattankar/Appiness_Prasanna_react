@@ -17,14 +17,14 @@
     
 #### UserTable.js(sub child):
    - Get the data in the form of props
-   - map the list of users into table 
+   - Map the list of users into table 
    
    
    
  #### Tech Used:
    - React
    - Redux
-   - ant design
+   - Ant Design
    
 ### Login Credentials:
    Email:hruday@gmail.com
