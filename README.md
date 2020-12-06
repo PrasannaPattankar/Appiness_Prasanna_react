@@ -27,6 +27,7 @@
    - ant design
    
 ### Login Credentials:
-   email:hruday@gmail.com
-   pass :hruday@123
+   Email:hruday@gmail.com
+   
+   Password :hruday@123
    
